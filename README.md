@@ -14,11 +14,10 @@ Balanced (B)
 This dataset is sourced from the UCI Machine Learning Repository.
 
 # Features:
-# Feature Name	             # Description
-left-weight	             Weight on the left side
-left-distance	           Distance from pivot (left)
-right-weight	           Weight on the right side
-right-distance	         Distance from pivot (right)
+left-weight	             (Weight on the left side);
+left-distance	           (Distance from pivot (left));
+right-weight	           (Weight on the right side) and
+right-distance	        ( Distance from pivot (right))
 
 # Target Variable:
 # Class	          Meaning
