@@ -20,10 +20,10 @@ right-weight	           (Weight on the right side) and
 right-distance	        ( Distance from pivot (right))
 
 # Target Variable:
-# Class	          Meaning
-   L	             Left side is heavier
-   R	             Right side is heavier
-   B	             Balanced
+Class	          Meaning
+   L	             (Left side is heavier)
+   R	            (Right side is heavier)
+   B	             (Balanced)
 
 # Underlying Concept
 
