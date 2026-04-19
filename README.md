@@ -1,4 +1,4 @@
-# Decision-Tree-Project-Tork-Data
+# Balance Scale Prediction Project of Torque Data
 📌 Project Overview
 
 This project focuses on predicting the balance state of a scale using machine learning techniques. The dataset is based on the physical principle of torque, where the balance depends on weights and their distances from the pivot.
